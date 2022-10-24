@@ -8,3 +8,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniofs23&theme=tokyonight)
 ![](https://komarev.com/ghpvc/?username=antoniofs23)
 -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniofs23&theme=tokyonight)
